@@ -18,17 +18,6 @@ function roll() {
       die = dice[r]
       if (die == "green") {
         green++;
-        else if (die == red") {
-          red++
-
-      if (green == 0 && red > ) {
-
-      } else {
-        win++;
-      }
-    }
-    green = 0;
-    red = 0;
-
+    }    else if (die == red)
   }
 }
